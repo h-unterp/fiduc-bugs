@@ -21,8 +21,7 @@ Steps to reproduce the behavior:
 A clear and concise description of what you expected to happen.
 
 **Screen Recordings and Screenshots**
-If applicable, add screenshots to help explain your problem.
-
+Screen recordings help us out the most and if you can reproduce the issue in a video and add it here, that would be amazing! 
 
 **Smartphone (please complete the following information):**
  - Device: [e.g. iPhone6]
